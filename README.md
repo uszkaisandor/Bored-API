@@ -68,3 +68,4 @@ The Bored API has been used in many other applications and projects:
 * [React app](https://github.com/CDAracena/Im-Bored)
 * [Vue app](https://github.com/emilsgulbis/BoredApp)
 * [iOS app](https://apps.apple.com/us/app/bored-find-what-to-do/id1475656469)
+* [Android app](https://github.com/uszkaisandor/bored-android)
